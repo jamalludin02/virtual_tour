@@ -11,7 +11,7 @@ Step by step:
   
   
 # Preview
-
-<video src='https://youtu.be/QV73UofJieQ' width=180/>
+<!-- <video src='https://youtu.be/QV73UofJieQ' width=180/> -->
+[<img src="[https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg](https://youtu.be/QV73UofJieQ)" width="50%">](https://youtu.be/<VIDEO ID>)
 
 
