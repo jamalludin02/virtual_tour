@@ -11,5 +11,6 @@ Step by step:
   
   
 # Preview
-[![Watch the video]([https://i.imgur.com/vKb2F1B.png](https://github.com/jamalludin02/virtual_tour/blob/main/media/Screenshot%202023-02-15%20013009.png))](https://youtu.be/QV73UofJieQ)
+
+[![Watch the video](https://github.com/jamalludin02/virtual_tour/blob/main/media/Screenshot%202023-02-15%20013009.png)](https://www.youtube.com/watch?v=QV73UofJieQ)
 
