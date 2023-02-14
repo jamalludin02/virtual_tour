@@ -12,6 +12,6 @@ Step by step:
   
 # Preview
 <!-- <video src='https://youtu.be/QV73UofJieQ' width=180/> -->
-[<img src="[https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg](https://youtu.be/QV73UofJieQ)" width="50%">](https://youtu.be/<VIDEO ID>)
+[<img src="[https://github.com/jamalludin02/virtual_tour/blob/main/media/Screenshot%202023-02-15%20013009.png](https://youtu.be/QV73UofJieQ)" width="50%">](https://youtu.be/QV73UofJieQ)
 
 
