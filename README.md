@@ -11,7 +11,5 @@ Step by step:
   
   
 # Preview
-<!-- <video src='https://youtu.be/QV73UofJieQ' width=180/> -->
-[<img src="[https://github.com/jamalludin02/virtual_tour/blob/main/media/Screenshot%202023-02-15%20013009.png](https://youtu.be/QV73UofJieQ)" width="50%">](https://youtu.be/QV73UofJieQ)
-
+[![Watch the video]([https://i.imgur.com/vKb2F1B.png](https://github.com/jamalludin02/virtual_tour/blob/main/media/Screenshot%202023-02-15%20013009.png))](https://youtu.be/QV73UofJieQ)
 
