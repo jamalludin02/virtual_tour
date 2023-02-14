@@ -11,6 +11,7 @@ Step by step:
   
   
 # Preview
-<iframe width="560" height="315" src"https://youtu.be/QV73UofJieQ" frameborder="0" allowfullscreen></iframe>
+
+<video src='https://youtu.be/QV73UofJieQ' width=180/>
 
 
